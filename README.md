@@ -67,7 +67,7 @@ requirements.txt     # Python dependencies
 
 **Sample Charts:**
 
-![Chart 1](1_time_series_analysis.png)
+![Chart 1](Visualizations/1_time_series_analysis.png)
 ![Chart 2](2_top_n_performance.png)
 ![Chart 3](3_distribution_analysis.png)
 ![Chart 4](4_geographical_analysis.png)
