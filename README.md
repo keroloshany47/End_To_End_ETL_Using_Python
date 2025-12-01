@@ -1,12 +1,12 @@
 # End-to-End ETL Using Python
 
-## 📌 Overview
+##  Overview
 
 This repository demonstrates a complete **ETL (Extract, Transform, Load) pipeline** using Python. It covers the workflow from raw data extraction to building a data mart, performing data quality checks, and generating insights with visualizations.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 DB_Connection/       # Database connection scripts
@@ -16,21 +16,22 @@ Visualizations/      # Generated charts
 extracted/           # Extracted datasets
 staging_1/           # First staging layer
 staging_2/           # Second staging layer
+schema_model.db      # Database schema
+data_mart.db         # Final data mart
+Schema_Diagram.png   # ER diagram of the database
+requirements.txt     # Python dependencies
 Extraction.py        # Data extraction script
 Transformation.py    # Data cleaning and transformation script
 Modeling.py          # Aggregation / modeling script
 Quality_check.py     # Data quality validation
 Visualization.py     # Generate charts & visualizations
 main.py              # Main pipeline execution
-schema_model.db      # Database schema
-data_mart.db         # Final data mart
-Schema_Diagram.png   # ER diagram of the database
-requirements.txt     # Python dependencies
+
 ```
 
 ---
 
-## 🔹 Steps Taken
+##  Steps Taken
 
 ### 1. **Extract**
 
@@ -61,10 +62,9 @@ requirements.txt     # Python dependencies
 ### 5. **Visualization & Insights**
 
 * `Visualization.py` generates charts saved in `Visualizations/`.
-* Key insights from the data:
 
-  * [Add 2–3 main findings here]
 
+  
 **Sample Charts:**
 
 <p float="left">
@@ -162,5 +162,3 @@ After each step, outputs and processed data will be saved in their respective fo
 This project demonstrates a complete **ETL workflow** with Python, from raw data extraction to building a data mart and generating meaningful insights. The pipeline is modular, reusable, and scalable for new datasets.
 
 ---
-.
-هل تحب أعمل ده دلوقتي؟
