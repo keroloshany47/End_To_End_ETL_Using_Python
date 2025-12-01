@@ -67,10 +67,10 @@ requirements.txt     # Python dependencies
 
 **Sample Charts:**
 
-![Chart 1](Visualizations/Chart_1.png)
-![Chart 2](Visualizations/Chart_2.png)
-![Chart 3](Visualizations/Chart_3.png)
-![Chart 4](Visualizations/Chart_4.png)
+![Chart 1](1_time_series_analysis.png)
+![Chart 2](2_top_n_performance.png)
+![Chart 3](3_distribution_analysis.png)
+![Chart 4](4_geographical_analysis.png)
 
 **Database Schema:**
 
