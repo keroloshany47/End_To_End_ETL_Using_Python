@@ -1,0 +1,11 @@
+file_name,original_rows,final_rows,duplicates_removed,nulls_handled,invalid_records_removed,data_quality_score
+brands.csv,9,9,0,0,0,100.0
+categories.csv,7,7,0,0,0,100.0
+customers.csv,1445,1445,0,1267,0,12.32
+exchange_rates.csv,1,1,0,0,0,100.0
+orders.csv,1445,1445,0,0,0,100.0
+order_items.csv,752,748,4,0,0,99.47
+products.csv,334,321,13,0,0,96.11
+staffs.csv,10,10,0,0,0,100.0
+stocks.csv,939,939,0,0,0,100.0
+stores.csv,3,3,0,0,0,100.0

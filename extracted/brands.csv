@@ -1,0 +1,10 @@
+brand_id,brand_name,extracted_at,data_source
+1,Electra,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv
+2,Haro,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv
+3,Heller,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv
+4,Pure Cycles,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv
+5,Ritchey,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv
+6,Strider,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv
+7,Sun Bicycles,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv
+8,Surly,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv
+9,Trek,2025-12-01T00:39:48.017199+00:00,DataLake:brands.csv

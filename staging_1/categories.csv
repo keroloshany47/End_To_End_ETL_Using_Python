@@ -1,0 +1,8 @@
+category_id,category_name,extracted_at,data_source
+1,Children Bicycles,2025-12-01T02:39:49.061140,categories.csv
+2,Comfort Bicycles,2025-12-01T02:39:49.061140,categories.csv
+3,Cruisers Bicycles,2025-12-01T02:39:49.061140,categories.csv
+4,Cyclocross Bicycles,2025-12-01T02:39:49.061140,categories.csv
+5,Electric Bikes,2025-12-01T02:39:49.061140,categories.csv
+6,Mountain Bikes,2025-12-01T02:39:49.061140,categories.csv
+7,Road Bikes,2025-12-01T02:39:49.061140,categories.csv
