@@ -67,14 +67,14 @@ requirements.txt     # Python dependencies
 
 **Sample Charts:**
 
-![Chart 1](Visualizations/1_time_series_analysis.png)
-![Chart 2](2_top_n_performance.png)
-![Chart 3](3_distribution_analysis.png)
-![Chart 4](4_geographical_analysis.png)
+<img src="Visualizations/1_time_series_analysis.png" alt="Time Series Analysis" width="400"/>
+<img src="Visualizations/2_top_n_performance.png" alt="Top N Performance" width="400"/>
+<img src="Visualizations/3_distribution_analysis.png" alt="Distribution Analysis" width="400"/>
+<img src="Visualizations/4_geographical_analysis.png" alt="Geographical Analysis" width="400"/>
+
 
 **Database Schema:**
-
-![Schema Diagram](Schema_Diagram.png)
+<img src="Schema_Diagram.png" alt="Geographical Analysis" width="400"/>
 
 ---
 
